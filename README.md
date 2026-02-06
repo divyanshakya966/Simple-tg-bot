@@ -238,7 +238,7 @@ SESSION_NAME = 'bot_session'  # Telethon session name
 
 ### Customize Welcome Message
 
-Edit the welcome message in `welcome.py` (lines 54-80):
+Edit the welcome message greetings list in the `welcome.py` file:
 
 ```python
 greetings = [
